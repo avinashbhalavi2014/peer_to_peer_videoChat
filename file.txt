@@ -1,0 +1,6 @@
+ youtube: Kyle Robinson Young
+ P2P Video Chat with JavaScript / WebRTC
+ 
+two diff people are communicating
+with no servers
+learn- how to create peer to peer video chat application
